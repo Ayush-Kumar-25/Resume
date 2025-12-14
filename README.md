@@ -1,2 +1,2 @@
 ## 📄 Resume
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue)](Ayush_Resume.pdf)
+🔗 [View My Resume (PDF)](https://github.com/Ayush-Kumar-25/Resume/tree/main/Ayush_Resume.pdf)
